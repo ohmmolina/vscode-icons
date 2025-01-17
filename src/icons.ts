@@ -152,6 +152,8 @@ const icons: Icon = {
   ...folderIcon("folder_firebase_open"),
   ...folderIcon("folder_flow"),
   ...folderIcon("folder_flow_open"),
+  ...folderIcon("folder_entity"),
+  ...folderIcon("folder_entity_open"),
   ...folderIcon("folder_environment"),
   ...folderIcon("folder_environment_open"),
   ...folderIcon("folder_wordpress"),
